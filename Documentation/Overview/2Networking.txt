@@ -1,0 +1,3 @@
+The FNF will provided a simple API for the transfer of data from one host to another. The API will be laid out in it's own document but will need to cover,
+sending and recieving data chunks from other FNF instances, sending and recieving chunks of data from other FNF instances.
+

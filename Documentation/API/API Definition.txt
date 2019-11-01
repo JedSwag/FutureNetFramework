@@ -1,0 +1,11 @@
+The Application Program Interface (API) for the FNF will function as follows:
+
+	1. There will be a toolkit which will contained within the namespace "FNFAPI Toolkit".
+	2. The toolkit will have both stand alone procudural functions and class based object implementations.
+	3. The stand alone functions will act to establish sockets between the current instance of FNF and external instances
+	4. The class based objects will utilise the functionality of the stand alone functions to initialise connectsions but will keep those
+	   connections alive themselves as well as handling disposal once the connections are complete.
+
+
+
+ 

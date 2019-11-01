@@ -1,0 +1,12 @@
+The FutureNetFramework (FNF) is designed to act as a web browser powered by the c++ programming laguage. It has three main responsibilities in achieving this goal:
+
+	1. Networking, that is communicating data from one host to another.
+
+	2. Rendering graphics, whether it's basic text or more advanced images the FNF must be able to render information to screen
+
+	3. Development, the FNF will allow developers to develope web pages for others to use.
+
+
+There are further goals for the FNF which while not essential, will increase the utility of the FNF:
+	
+	1. Compatability with HTML based web pages
